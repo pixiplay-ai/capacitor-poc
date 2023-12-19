@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
